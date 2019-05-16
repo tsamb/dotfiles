@@ -14,3 +14,13 @@ test -d $HOME/.bash_profile.d && {
 ```
 
 This way, my otherwise cluttered bash profile is tidied up into nicely named, easily maintainable modules. 
+
+## Dependencies
+
+### Brew install the following things:
+
+```bash
+brew install rbenv
+brew install git
+brew install bash-completion
+```
